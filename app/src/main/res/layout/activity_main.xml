@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="my chat"
+        android:textSize="40sp"
+        android:textColor="@color/msg2"
+        android:background="@color/msg"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        />
+
+    <TextView
+        android:layout_width="274dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:lines="2"
+        android:padding="15dp"
+        android:text="hi Leo.whats up?? Ineed a new logo for group."
+        android:drawableRight="@drawable/ic_baseline_done_all_24"
+        android:textColor="@color/msg"
+        android:background="@drawable/my_background_user1"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="22:30"
+        android:layout_gravity="right"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:background="@drawable/my_background_user1"
+        android:drawableRight="@drawable/ic_baseline_done_all_24"
+        android:padding="10dp"
+        android:text="simple , minimal and beauti..."
+        android:textColor="@color/msg"
+        android:textSize="20sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="22:31"
+        android:layout_gravity="right"
+        />
+
+    <TextView
+        android:layout_width="197dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/my_background"
+        android:lines="2"
+        android:padding="15dp"
+        android:text="hi lefgfldsngfkdkgfngksdfbgkdfngkkndgfknkndgfknkng."
+        android:textColor="@color/msg2"
+        android:textSize="20sp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="22:30"
+
+        />
+    <TextView
+        android:layout_width="274dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:padding="10dp"
+        android:text="hi lefgfldsngfkdkg🥰 ."
+        android:drawableRight="@drawable/ic_baseline_done_all_24"
+        android:textColor="@color/msg"
+        android:background="@drawable/my_background_user1"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="22:31"
+        android:layout_gravity="right"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        />
+
+    <TextView
+        android:layout_width="365dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/my_background_down"
+        android:drawableStart="@drawable/ic_baseline_attach_file_24"
+        android:drawableEnd="@drawable/ic_baseline_mic_none_24"
+        android:padding="20dp"
+
+
+
+        />
+
+</LinearLayout>

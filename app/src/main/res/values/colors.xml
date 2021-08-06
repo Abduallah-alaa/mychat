@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#6200EE</color>
+    <color name="massegebr">#3700B3</color>
+    <color name="onapp">#555E5D</color>
+    <color name="msg">#fff</color>
+    <color name="msg2">#131313</color>
+    <color name="bgmsg2">#CFCFCF</color>
+</resources>
